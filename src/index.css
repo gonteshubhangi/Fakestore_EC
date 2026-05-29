@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 20px; /* Adjust value as needed; applies equal space inside */
+  height: 100%;
+}
+
+#root {
+  max-width: 1200px; /* Set your content width */
+  margin: 0 auto; /* Centers with equal side space */
+  min-height: 100vh;
+  padding: 20px; /* Optional inner padding for content */
+  box-sizing: border-box;
+}
