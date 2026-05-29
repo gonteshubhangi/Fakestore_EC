@@ -1,16 +1,111 @@
-# React + Vite
+FakeStore EC 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern E-Commerce web application built using FakeStore API. This project provides users with an interactive online shopping experience including product browsing, category filtering, cart management, and responsive UI.
 
-Currently, two official plugins are available:
+🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 Live Website: https://your-netlify-link.netlify.app
 
-## React Compiler
+Replace the above URL with your actual Netlify deployment link.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📂 GitHub Repository
 
-## Expanding the ESLint configuration
+🔗 Repository: https://github.com/gonteshubhangi/Fakestore_EC.git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📌 Features
+🛍️ Product Listing
+🔍 Product Details View
+🛒 Add to Cart Functionality
+📱 Fully Responsive Design
+⚡ Fast Performance
+🌐 API Integration using FakeStore API
+🎨 Clean UI Design
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript
+React.js (if used)
+FakeStore API
+Netlify Deployment
+📦 Project Setup
+
+Follow the below steps to run this project locally on your system.
+
+1️⃣ Clone the Repository
+git clone https://github.com/gonteshubhangi/Fakestore_EC.git
+2️⃣ Navigate to Project Folder
+cd Fakestore_EC
+3️⃣ Install Dependencies
+
+If your project uses npm:
+
+npm install
+4️⃣ Start Development Server
+npm run dev
+
+OR
+
+npm start
+5️⃣ Open in Browser
+
+Visit:
+
+http://localhost:3000
+
+OR (for Vite projects)
+
+http://localhost:5173
+🌐 Deployment on Netlify
+Steps to Deploy
+Push your project to GitHub.
+Login to Netlify.
+Click Add New Site → Import an Existing Project.
+Connect your GitHub account.
+Select the repository:
+Fakestore_EC
+Configure build settings:
+For React/Vite:
+Build Command: npm run build
+Publish Directory: dist
+For React CRA:
+Build Command: npm run build
+Publish Directory: build
+Click Deploy Site.
+📸 Screenshots
+
+Add your project screenshots here.
+
+Example:
+
+![Homepage Screenshot](./screenshots/home.png)
+📁 Folder Structure
+Fakestore_EC/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── App.js
+│
+├── package.json
+└── README.md
+🤝 Contributing
+
+Contributions are welcome.
+
+Fork the repository
+Create a new branch
+Make changes
+Commit your changes
+Push to your branch
+Create a Pull Request
+📄 License
+
+This project is open-source and available under the MIT License.
+
+👨‍💻 Author
+
+Shubhangi Gonte
+
+GitHub: https://github.com/gonteshubhangi
