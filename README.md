@@ -2,9 +2,11 @@ FakeStore EC 🛒
 
 A modern E-Commerce web application built using FakeStore API. This project provides users with an interactive online shopping experience including product browsing, category filtering, cart management, and responsive UI.
 
-🚀 Live Demo
+🚀 Live Demo 
 
-🌐 Live Website: https://your-netlify-link.netlify.app
+🌐 Live Website: https://aquamarine-blini-9eb46b.netlify.app/
+https://github.com/gonteshubhangi/Fakestore_EC.git
+
 
 Replace the above URL with your actual Netlify deployment link.
 
